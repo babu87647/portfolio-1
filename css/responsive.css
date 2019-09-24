@@ -1,0 +1,593 @@
+/*
+====================================
+Medium Screen - Others
+====================================
+*/
+@media screen and (min-width: 992px) and (max-width: 1200px) {
+
+header {
+	display: none;
+}
+
+.slider-one {
+	margin-top: 0;
+}
+
+.best-one-contant a {
+    font-size: 20px;
+}
+
+.choose-left-heading h2 {
+    font-size: 35px;
+    margin-bottom: 25px;
+}
+
+.choose-img-part {
+    margin-bottom: 20px;
+}
+
+.help-right-heading h2 {
+    font-size: 38px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Tablate
+====================================
+*/
+@media screen and (min-width: 768px) and (max-width: 991px) {
+
+header {
+	display: none;
+}
+
+
+.top-header-right ul li.call span {
+    margin-left: 0px;
+}
+
+.slider-one {
+	margin-top: 0;
+}
+
+.item-one h1,
+.item-two h1,
+.item-three h1 {
+    font-size: 50px;
+}
+
+.choose-left-heading h2 {
+    font-size: 27px;
+    margin-bottom: 20px;
+}
+
+.choose-left-heading p {
+    margin-bottom: 10px;
+}
+
+.choose-img-para h4 {
+	font-size: 18px;
+}
+
+.choose-img-part {
+    margin-bottom: 15px;
+}
+
+.choose {
+    margin-bottom: 0px;
+}
+
+.choose-right img {
+    margin-top: 200px;
+}
+
+.counter-one {
+    border-right: none;
+}
+
+.help {
+    padding: 30px 0;
+    background-image: none;
+    background-color: #FAFAFA;
+}
+
+.client-one {
+    width: 100%;
+}
+
+.news-list-one {
+    margin-bottom: 20px;
+}
+
+.footer-one,
+.footer-two,
+.footer-three,
+.footer-four {
+    margin-bottom: 35px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Small Screen - Mobile
+====================================
+*/
+@media screen and (min-width: 576px) and (max-width: 767px) {	
+
+
+.top-header-right ul li.call span {
+    margin-left: 0px;
+}
+
+header {
+	display: none;
+}
+
+.top-header-right {
+	float: left!important;
+}
+
+.slider-one {
+    margin-top: 0;
+}
+
+.item-one h1,
+.item-two h1,
+.item-three h1 {
+    font-size: 30px;
+}
+
+.item-one,
+.item-two,
+.item-three {
+	padding: 80px 0;
+}
+
+.best {
+	padding-top: 30px;
+	padding: 0;
+}
+
+.best-one {
+	margin-bottom: 40px;
+}
+
+.choose-left-heading h2 {
+    font-size: 26px;
+    margin-bottom: 16px;
+}
+
+.choose-left-heading p {
+    margin-bottom: 25px;
+}
+
+.choose-img-part {
+    margin-bottom: 5px;
+}
+
+.choose-img-para h4 {
+    font-size: 16px;
+}
+
+.choose-right img {
+    margin-top: 0px;
+    width: 100%;
+}
+
+.choose {
+    margin: 20px 0px;
+}
+
+.counter-one {
+    border-right: none;
+}
+
+.solution {
+    padding: 30px 0;
+}
+
+.solution-heading h2 {
+    font-size: 20px;
+    margin-bottom: 16px;
+}
+
+.sl-one {
+    margin-top: 25px;
+}
+
+.sl-one-img table img {
+    margin-right: 10px;
+}
+
+.sl-one-img table td p {
+    font-size: 20px;
+}
+
+.help {
+    padding: 30px 0;
+    background-image: none;
+    background-color: #FAFAFA;
+}
+
+.help-right-heading h2 {
+    font-size: 25px;
+}
+
+.project {
+    padding: 30px 0;
+}
+
+.project-heading h2 {
+    font-size: 32px;
+}
+
+.request {
+    padding: 30px 0;
+}
+
+.request-left-heading h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+.request-left-heading p {
+    margin-bottom: 26px;
+}
+
+.client {
+    padding: 30px 0;
+}
+
+.client-heading h2 {
+    font-size: 32px;
+}
+
+.client-heading p {
+    margin: 20px 0;
+}
+
+.client-one {
+    width: 100%!important;
+}
+
+.client-one img {
+    display: none!important;
+}
+
+.client-one p {
+    margin: 0;
+}
+
+.news {
+    padding: 30px 0;
+}
+
+.news-heading h2 {
+    font-size: 35px;
+}
+
+.news-heading p {
+    margin: 25px 0;
+}
+
+.news-list-one {
+    margin-bottom: 20px;
+}
+
+.logo-slider {
+    padding-bottom: 30px;
+}
+
+.item a img {
+    width: 100%!important;
+}
+
+.footer {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.footer-one,
+.footer-two,
+.footer-three,
+.footer-four {
+    margin-bottom: 35px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
+
+/*
+====================================
+Xtra Small Screen - Small Mobile
+====================================
+*/
+@media screen and (max-width: 576px) {
+
+
+.top-header-right ul li.call span {
+    margin-left: 0px;
+}
+
+header {
+	display: none;
+}
+
+.top-header-right {
+	float: left!important;
+}
+
+.slider-one {
+    margin-top: 0;
+}
+
+.item-one h1,
+.item-two h1,
+.item-three h1 {
+    font-size: 30px;
+}
+
+.item-one,
+.item-two,
+.item-three {
+	padding: 80px 0;
+}
+
+.best {
+	padding-top: 30px;
+	padding: 0;
+}
+
+.best-one {
+	margin-bottom: 40px;
+}
+
+.choose-left-heading h2 {
+    font-size: 26px;
+    margin-bottom: 16px;
+}
+
+.choose-left-heading p {
+    margin-bottom: 25px;
+}
+
+.choose-img-part {
+    margin-bottom: 5px;
+}
+
+.choose-img-para h4 {
+    font-size: 16px;
+}
+
+.choose-right img {
+    margin-top: 0px;
+    width: 100%;
+}
+
+.choose {
+    margin: 20px 0px;
+}
+
+.counter-one {
+    border-right: none;
+}
+
+.solution {
+    padding: 30px 0;
+}
+
+.solution-heading h2 {
+    font-size: 20px;
+    margin-bottom: 16px;
+}
+
+.sl-one {
+    margin-top: 25px;
+}
+
+.sl-one-img table img {
+    margin-right: 10px;
+}
+
+.sl-one-img table td p {
+    font-size: 20px;
+}
+
+.help {
+    padding: 30px 0;
+    background-image: none;
+    background-color: #FAFAFA;
+}
+
+.help-right-heading h2 {
+    font-size: 25px;
+}
+
+.project {
+    padding: 30px 0;
+}
+
+.project-heading h2 {
+    font-size: 32px;
+}
+
+.request {
+    padding: 30px 0;
+}
+
+.request-left-heading h2 {
+    margin-bottom: 20px;
+    font-size: 24px;
+}
+
+.request-left-heading p {
+    margin-bottom: 26px;
+}
+
+.team {
+    padding: 30px 0;
+}
+
+.team-heading h2 {
+    font-size: 32px;
+}
+
+.team-heading p {
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+.client {
+    padding: 30px 0;
+}
+
+.client-heading h2 {
+    font-size: 32px;
+}
+
+.client-heading p {
+    margin: 20px 0;
+}
+
+.client-one img {
+    display: none!important;
+}
+
+.client-one {
+    width: 100%;
+}
+
+.client-one p {
+    margin: 0;
+}
+
+.news {
+    padding: 30px 0;
+}
+
+.news-heading h2 {
+    font-size: 35px;
+}
+
+.news-heading p {
+    margin: 25px 0;
+}
+
+.news-list-one {
+    margin-bottom: 20px;
+}
+
+.logo-slider {
+    padding-bottom: 30px;
+}
+
+.item a img {
+    width: 100%!important;
+}
+
+.footer {
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+
+.footer-one,
+.footer-two,
+.footer-three,
+.footer-four {
+    margin-bottom: 35px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
